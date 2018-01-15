@@ -1,0 +1,6 @@
+D:\pz\K1\K1\bin\Debug\K1.exe.config
+D:\pz\K1\K1\obj\Debug\K1.csprojResolveAssemblyReference.cache
+D:\pz\K1\K1\bin\Debug\K1.exe
+D:\pz\K1\K1\bin\Debug\K1.pdb
+D:\pz\K1\K1\obj\Debug\K1.exe
+D:\pz\K1\K1\obj\Debug\K1.pdb
